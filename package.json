@@ -1,0 +1,48 @@
+{
+  "name": "typescriptvalidations",
+  "version": "1.0.0",
+  "description": "this project contains validations functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NarayanaBojja/typescript-validations"
+  },
+  "bugs": {
+    "url": "https://github.com/NarayanaBojja/typescript-validations/issues"
+  },
+  "keywords": [
+    "typescript",
+    "typescript",
+    "validations",
+    "validations"
+  ],
+  "author": "Narayana Bojja",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-uglify": "^1.5.3",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    
+    "typescript": "^1.8.9",
+    "typings": "^0.7.12",
+    "del": "^2.2.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-header": "^1.8.2",
+    "gulp-help": "^1.6.1",
+    "gulp-load-plugins": "^1.2.2",
+    "gulp-rename": "^1.2.2",
+    "jasmine-ajax": "^3.2.0",
+    "karma-jasmine-ajax": "^0.1.13",
+    "path": "0.12.7",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.2.0"
+
+  }
+  }
